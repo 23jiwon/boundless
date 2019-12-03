@@ -1,6 +1,6 @@
 ﻿@charset "UTF-8";
 @font-face {
-font-family: 'BMDOHYEON'; 
+font-family: BMDOHYEON; 
 src: local(BMDOHYEON),
      local(BMDOHYEON_ttf),
      url(BMDOHYEON_ttf.eot) format('eot'),
@@ -8,7 +8,7 @@ src: local(BMDOHYEON),
      url(BMDOHYEON_ttf.ttf) format('truetype');
 }
 body{
-font-family: "BMDOHYEON";
+font-family: BMDOHYEON;
 font-size:20px;
 box-sizing:border-box;
 width:100%;
