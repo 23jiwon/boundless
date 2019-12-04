@@ -6,8 +6,8 @@ src: local(BMDOHYEON),
      url(BMDOHYEON_ttf.eot) format('eot'),
      url(BMDOHYEON_ttf.eof?#iefix) format('embedded-opentype'),
      url(BMDOHYEON_ttf.woff) format('woff'),
-     url(BMDOHYEON_ttf.ttf) format('truetype');
-src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMDOHYEON.woff') 
+     url(BMDOHYEON_ttf.ttf) format('truetype'),
+     url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMDOHYEON.woff') 
      format('woff'); font-weight: normal; font-style: normal;
 }
 
